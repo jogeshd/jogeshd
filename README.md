@@ -17,14 +17,10 @@
 
 ### 📊 DATA_STREAM (Neural Metrics)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jogeshd&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=1800" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jogeshd&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="180" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jogeshd&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogeshd&layout=compact&theme=radical&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jogeshd&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jogeshd&theme=radical&hide_border=true)
 
 ---
 
@@ -48,9 +44,7 @@
 
 ### 🧬 CONTRIBUTION GRID (Auto-Updating)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jogeshd/jogeshd/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
+![Snake Animation](https://raw.githubusercontent.com/jogeshd/jogeshd/output/github-contribution-grid-snake-dark.svg)
 
 <br>
 
