@@ -18,12 +18,12 @@
 ### 📊 DATA_STREAM (Neural Metrics)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jogeshd&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jogeshd&layout=compact&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jogeshd&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=1800" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jogeshd&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jogeshd&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jogeshd&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
 </p>
 
 ---
@@ -46,10 +46,10 @@
 
 ---
 
-### 🧬 CONTRIBUTION GRID
+### 🧬 CONTRIBUTION GRID (Auto-Updating)
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jogeshd&theme=radical" width="100%" />
+  <img src="https://raw.githubusercontent.com/jogeshd/jogeshd/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 <br>
