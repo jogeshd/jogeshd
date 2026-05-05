@@ -1,142 +1,114 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffcc&height=250&section=header&text=Jogesh%20Dubey&fontSize=70&fontAlignY=35&desc=AI%20Orchestrator%20&%20Offensive%20Security%20Engineer&descAlignY=55&descAlign=62&fontColor=ffffff&animation=fadeIn" />
+  <!-- Dynamic Neural Network Banner / Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f0ff&height=200&section=header&text=Jogesh%20Dubey&fontSize=60&fontAlignY=38&desc=Architecting%20Autonomous%20AI%20Pipelines&descAlignY=60&descAlign=50&fontColor=ffffff&animation=fadeIn&descSize=20" width="100%" />
 </div>
 
 <div align="center">
+  <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=Building+Distributed+AI+Systems+%E2%9A%A1;System+Breaker+%7C+Bug+Bounty+Hunter;Architecting+Autonomous+Pipelines;Cybersecurity+Specialist+|+Network+Pentester" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Building+Distributed+AI+Systems;Multi-agent+intelligence;Real-time+orchestration;Adaptive+systems" alt="Typing Intro" />
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jogeshd&label=SYSTEM%20TRAFFIC&color=8A2BE2&style=for-the-badge" alt="Visitors" />
-  <img src="https://img.shields.io/github/followers/jogeshd?label=AGENTS%20CONNECTED&style=for-the-badge&color=00ffcc&logo=github" alt="Followers" />
-</div>
-
-<br>
+<br><br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Activity Grid" style="border-radius: 10px; border: 1px solid #00ffcc; box-shadow: 0 0 10px #00ffcc;" />
-</div>
-
-<br>
-
----
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="neon divider"/>
-</div>
----
-
-### 🌐 SYSTEM CORE: ABOUT ME
-
-```yaml
-Node_ID: "jogeshd"
-Class: ["AI Architect", "Security Researcher", "Hacker"]
-Objective: "Building highly autonomous, decentralized AI exploitation pipelines."
-Philosophy: "Eliminate manual bottlenecks. Let the machine learn, hunt, and exploit."
-Status: "ONLINE"
-```
-
-Operating at the intersection of **Advanced Artificial Intelligence** and **Offensive Cybersecurity**, I architect multi-agent intelligence buses that autonomously map networks, discover zero-days, and orchestrate exploit chains using collective AI capabilities. 
-
----
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" alt="neon divider"/>
-</div>
----
-
-### 💻 ARSENAL & TECH STACK
-
-<div align="center">
-  
-  **`[ CORE AI / ML & DEV ]`**<br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,powershell,nodejs,cpp,rust&theme=dark" />
-  </a>
-  <br><br>
-
-  **`[ CYBERSECURITY & PENTESTING ]`**<br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,linux,windows,regex,vim,vscode&theme=dark" />
-  </a>
-  <br><br>
-
-  **`[ CLOUD & ARCHITECTURE ]`**<br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,github,git&theme=dark" />
-  </a>
-
-</div>
-
----
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="neon divider"/>
-</div>
----
-
-### 🚀 FEATURED PROJECT: AImediator
-
-**AImediator** is my flagship decentralised AI orchestration engine. It acts as the central nervous system for AI agents, allowing them to collaborate, distribute tasks, and share real-time context without bottlenecks.
-
-<div align="center">
+  <!-- The Hook: AImediator Neural Engine representation using the 3D Image we generated -->
   <a href="https://github.com/jogeshd/AImediator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jogeshd&repo=AImediator&theme=radical&border_color=00ffcc&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9&icon_color=8A2BE2" alt="AImediator Repo" />
+    <img src="https://raw.githubusercontent.com/jogeshd/AImediator/master/aimediator_architecture_3d_1777909163493.png" alt="AImediator Core Engine" width="800" style="border-radius: 12px; box-shadow: 0 0 20px rgba(122, 0, 255, 0.4);" />
   </a>
+  <br>
+  <sub><i>AImediator Neural Core: Synchronizing distributed agent states in real-time.</i></sub>
 </div>
 
-**Core Features:**
-- ⚡ **Multi-Agent Orchestration:** Distributes workloads across Claude Code, Codex, and OpenClaw.
-- 🔄 **Real-Time Sync:** Centralized global shared memory for live context sharing.
-- 🎯 **Load Balancing:** Dynamically shifts tasks based on agent speed and accuracy ratings.
+<br><br>
 
----
+<!-- SYSTEM CAPABILITIES (UI Component Style) -->
+<h3 align="center" style="color: #00f0ff; font-family: monospace;">// SYSTEM CAPABILITIES //</h3>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" alt="neon divider"/>
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" width="25" /> Parallel Execution</h3>
+        <p>Multiple specialized agents processing distinct tasks simultaneously without blocking.</p>
+      </td>
+      <td width="50%" align="center">
+        <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="25" /> Context Sync</h3>
+        <p>Real-time shared intelligence layer preventing redundant execution and data loss.</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" width="25" /> Adaptive Routing</h3>
+        <p>Dynamic workload distribution based on continuous speed and accuracy profiling.</p>
+      </td>
+      <td width="50%" align="center">
+        <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" /> Optimized Output</h3>
+        <p>Automated output validation resulting in faster, refined, and zero-hallucination results.</p>
+      </td>
+    </tr>
+  </table>
 </div>
----
 
-### 📊 THREAT INTELLIGENCE & METRICS
+<br><br>
+
+<!-- FEATURE PRODUCT SHOWCASE -->
+<h3 align="center" style="color: #00f0ff; font-family: monospace;">// FLAGSHIP ORCHESTRATOR //</h3>
 
 <div align="center">
-  <a href="https://github.com/jogeshd">
-    <img src="https://github-profile-trophy.vercel.app/?username=jogeshd&theme=dracula&no-frame=true&no-bg=true&row=1&column=6&margin-w=15" />
+  <h2>AImediator</h2>
+  <p><i>The central nervous system for decentralized multi-agent collaboration.</i></p>
+  
+  <a href="https://github.com/jogeshd/AImediator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jogeshd&repo=AImediator&theme=tokyonight&border_color=7a00ff&bg_color=0a0a0a&title_color=00f0ff&text_color=ffffff&icon_color=7a00ff" alt="AImediator Dashboard" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jogeshd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=8A2BE2" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jogeshd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc" height="195" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jogeshd&theme=tokyonight&hide_border=true&background=0d1117&stroke=0000&ring=00ffcc&fire=8A2BE2" />
-</div>
-
----
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="neon divider"/>
-</div>
----
-
-### 🖧 SYSTEM BOOT SEQUENCE
-
-```console
-> INITIALIZING AImediator... [OK]
-> ESTABLISHING AGENT LINKS...
-    [+] Claude Code: CONNECTED
-    [+] Codex CLI: CONNECTED
-    [+] OpenClaw: CONNECTED
-> SYNCING GLOBAL MEMORY... [OK]
-> SYSTEM ONLINE. STANDING BY FOR COMMANDS.
-_
-```
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" alt="neon divider"/>
   <br><br>
-  <i><h3 style="color: #00ffcc;">"AI should collaborate, not compete."</h3></i>
+  <b><a href="https://github.com/jogeshd/AImediator" style="color: #00f0ff; text-decoration: none;">[ EXPLORE THE SYSTEM ] ➔</a></b>
+</div>
+
+<br><br>
+
+<!-- CYBER TERMINAL -->
+<h3 align="center" style="color: #7a00ff; font-family: monospace;">// SYSTEM BOOT SEQUENCE //</h3>
+
+<div align="center">
+  <table width="600" style="background-color: #0a0a0a; border: 1px solid #7a00ff; border-radius: 6px;">
+    <tr>
+      <td style="padding: 20px; font-family: monospace; color: #00f0ff; font-size: 14px;">
+        > initializing AI mediator...<br>
+        > mapping network topography... [OK]<br>
+        > syncing agents: Claude, Codex, OpenClaw... [OK]<br>
+        > compiling shared memory constraints... [OK]<br>
+        > system status: <span style="color: #39ff14;">ACTIVE</span> █
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br><br>
+
+<!-- LIVE SYSTEM DATA -->
+<h3 align="center" style="color: #00f0ff; font-family: monospace;">// LIVE TELEMETRY //</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jogeshd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00f0ff&text_color=ffffff&icon_color=7a00ff" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jogeshd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00f0ff" height="195" />
+  
+  <br><br>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="border-radius: 8px; border: 1px solid #7a00ff;">
+  </picture>
+</div>
+
+<br><br>
+
+<!-- PHILOSOPHY / FOOTER -->
+<div align="center">
+  <br>
+  <h2 style="color: #ffffff; font-weight: 300;"><i>"AI should collaborate, not compete."</i></h2>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="400" />
 </div>
