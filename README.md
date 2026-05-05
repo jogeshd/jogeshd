@@ -18,12 +18,12 @@
 ### 📊 DATA_STREAM (Neural Metrics)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jogeshd&show_icons=true&theme=tokyonight&bg_color=0a0a0a&title_color=00f0ff&text_color=ffffff&icon_color=ff003c&hide_border=true" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jogeshd&layout=compact&theme=tokyonight&bg_color=0a0a0a&title_color=00f0ff&text_color=ffffff&icon_color=ff003c&hide_border=true" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jogeshd&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jogeshd&layout=compact&theme=radical&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jogeshd&theme=tokyonight&background=0a0a0a&fire=ff003c&currStreakLabel=00f0ff&border=00000000" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jogeshd&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ### 🧬 CONTRIBUTION GRID
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jogeshd&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jogeshd&theme=radical" width="100%" />
 </p>
 
 <br>
