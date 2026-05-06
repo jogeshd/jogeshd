@@ -1,14 +1,14 @@
-# <p align="center">🌐 JOGESHD_NEXUS</p>
+# <p align="center">🌐 JOGESH_KUMAR_DUBEY_NEXUS</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=WELCOME+TO+THE+NEXUS;SYSTEM+STATUS:+ACTIVE;CYBER-ARCHITECT+LOADED" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=WELCOME+TO+THE+NEXUS;JOGESH+KUMAR+DUBEY;SYSTEM+STATUS:+ACTIVE;CYBER-ARCHITECT+LOADED" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800">
 </p>
 
-## 📡 TERMINAL_ACCESS: jogeshd.exe
+## 📡 TERMINAL_ACCESS: jogeshkumardubey.exe
 
 > **WHOAMI:** Full Stack Engineer specializing in high-reliability Android systems and AI-driven automation. 
 > **OBJECTIVE:** Perfecting the SAFE-CHARGING Overwatch system.
